@@ -1102,6 +1102,41 @@ header .top-bar {
 	left: 90px;
 	top: 0;
 }
+
+header .top-nav {
+	display: block;
+	background: #000000;
+	min-width: 220px;
+	min-height: 66px;
+	position: absolute;
+	left: 90px;
+	top: 0;
+}
+
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+
+
 header .logo {
 	float: left;
 	margin-left: 20px;
