@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0 on Punyajoy Saha</title>
+    <link>/publication_types/0/</link>
+    <description>Recent content in 0 on Punyajoy Saha</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 04 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hateminers: Detecting Hatespeech against Women</title>
+      <link>/publication/hateminers-detecting-hatespeech-against-women/</link>
+      <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/hateminers-detecting-hatespeech-against-women/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
