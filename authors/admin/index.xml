@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
+    <title>Punyajoy Saha</title>
     <link>/authors/admin/</link>
-    <description>Recent content on Academic</description>
+    <description>Recent content on Punyajoy Saha</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
@@ -16,7 +16,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/authors/admin/</guid>
-      <description>Punyajoy Saha is an undergraduate student in the Department of Computer Science and Technology at IIEST, Shibpur. His paper &amp;ldquo;Thou shalt not Hate: Countering Online Hate Speech&amp;rdquo; got accepted at ICWSM 2019. Apart from studies, he loves playing guitar and writing short stories. Currently he is doing research in the area of machine learning, focused in social computing domain.</description>
+      <description>Punyajoy Saha is a Junior Research Fellow at CNeRG Lab in the Department of Computer Science and Engineering at IIT Kharagpur, West Bengal. Currently, he is doing research in the area of social computing and natural language processing domain under the supervision of Prof. Animesh Mukherjee and Prof. Pawan Goyal. Apart from research, he also loves playing guitar and writing short stories.</description>
     </item>
     
   </channel>
