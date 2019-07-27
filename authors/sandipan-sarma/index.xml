@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sandipan Sarma on Punyajoy Saha</title>
+    <link>/authors/sandipan-sarma/</link>
+    <description>Recent content in Sandipan Sarma on Punyajoy Saha</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 21 Apr 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/sandipan-sarma/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Document Categorization Using Graph Structuring</title>
+      <link>/publication/iccacp2018/</link>
+      <pubDate>Sat, 21 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/iccacp2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
