@@ -6,7 +6,7 @@
     <description>Recent content in Authors on Punyajoy Saha</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Animesh Mukherjee</title>
       <link>/authors/animesh-mukherjee/</link>
-      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>/authors/animesh-mukherjee/</guid>
       <description></description>
@@ -23,9 +23,27 @@
     <item>
       <title>Binny Mathews</title>
       <link>/authors/binny-mathews/</link>
-      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>/authors/binny-mathews/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pawan Goyal</title>
+      <link>/authors/pawan-goyal/</link>
+      <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/pawan-goyal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Punyajoy Saha</title>
+      <link>/authors/punyajoy-saha/</link>
+      <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/punyajoy-saha/</guid>
       <description></description>
     </item>
     
@@ -39,29 +57,11 @@
     </item>
     
     <item>
-      <title>Pawan Goyal</title>
-      <link>/authors/pawan-goyal/</link>
-      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/pawan-goyal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Prajwal Singhania</title>
       <link>/authors/prajwal-singhania/</link>
       <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/authors/prajwal-singhania/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Punyajoy Saha</title>
-      <link>/authors/punyajoy-saha/</link>
-      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/punyajoy-saha/</guid>
       <description></description>
     </item>
     

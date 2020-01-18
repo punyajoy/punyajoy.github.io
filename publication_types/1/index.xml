@@ -6,10 +6,19 @@
     <description>Recent content in 1 on Punyajoy Saha</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>HateMonitors: Language Agnostic AbuseDetection in Social Media</title>
+      <link>/publication/hasoc_2019/</link>
+      <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/hasoc_2019/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Thou shalt not hate: Countering Online Hate Speech</title>
@@ -22,19 +31,19 @@
     
     <item>
       <title>Effect of Devanagari Font Type in Reading Comprehension: An Eye Tracking Study</title>
-      <link>/publication/ihci2018/</link>
+      <link>/publication/ihci_2018/</link>
       <pubDate>Sat, 10 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/ihci2018/</guid>
+      <guid>/publication/ihci_2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Document Categorization Using Graph Structuring</title>
-      <link>/publication/iccacp2018/</link>
+      <link>/publication/iccacp_2018/</link>
       <pubDate>Sat, 21 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/iccacp2018/</guid>
+      <guid>/publication/iccacp_2018/</guid>
       <description></description>
     </item>
     
