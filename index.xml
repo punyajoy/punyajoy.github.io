@@ -6,10 +6,37 @@
     <description>Recent content on Punyajoy Saha</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2020 00:00:00 +0530</lastBuildDate>
     
 	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Winner of Facebook and Social Science One data grant</title>
+      <link>/post/facebook_data_grant/</link>
+      <pubDate>Mon, 20 Apr 2020 00:00:00 +0530</pubDate>
+      
+      <guid>/post/facebook_data_grant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joined PhD in January 2020</title>
+      <link>/post/entered_phd/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0530</pubDate>
+      
+      <guid>/post/entered_phd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Work on misogyny detection recognised by MIT Technical Review</title>
+      <link>/post/best_preprint/</link>
+      <pubDate>Sun, 29 Dec 2019 00:00:00 +0530</pubDate>
+      
+      <guid>/post/best_preprint/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>HateMonitors: Language Agnostic AbuseDetection in Social Media</title>
