@@ -6,80 +6,35 @@
     <description>Recent content on Punyajoy Saha</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Apr 2020 00:00:00 +0530</lastBuildDate>
+    <copyright>&amp;copy;2019</copyright>
     
 	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Winner of Facebook and Social Science One data grant</title>
-      <link>/post/facebook_data_grant/</link>
-      <pubDate>Mon, 20 Apr 2020 00:00:00 +0530</pubDate>
+      <title>Posts</title>
+      <link>/post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/post/facebook_data_grant/</guid>
+      <guid>/post/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Joined PhD in January 2020</title>
-      <link>/post/entered_phd/</link>
-      <pubDate>Thu, 02 Jan 2020 00:00:00 +0530</pubDate>
+      <title>Publications</title>
+      <link>/publication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/post/entered_phd/</guid>
+      <guid>/publication/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Work on misogyny detection recognised by MIT Technical Review</title>
-      <link>/post/best_preprint/</link>
-      <pubDate>Sun, 29 Dec 2019 00:00:00 +0530</pubDate>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>/talk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/post/best_preprint/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>HateMonitors: Language Agnostic AbuseDetection in Social Media</title>
-      <link>/publication/hasoc_2019/</link>
-      <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/hasoc_2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Thou shalt not hate: Countering Online Hate Speech</title>
-      <link>/publication/icwsm_2019/</link>
-      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/icwsm_2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hateminers: Detecting Hatespeech against Women</title>
-      <link>/publication/evalita_ami_2018/</link>
-      <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/evalita_ami_2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Effect of Devanagari Font Type in Reading Comprehension: An Eye Tracking Study</title>
-      <link>/publication/ihci_2018/</link>
-      <pubDate>Sat, 10 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/ihci_2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Document Categorization Using Graph Structuring</title>
-      <link>/publication/iccacp_2018/</link>
-      <pubDate>Sat, 21 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/iccacp_2018/</guid>
+      <guid>/talk/</guid>
       <description></description>
     </item>
     

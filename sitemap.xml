@@ -1,17 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2020-04-20T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2020-04-20T00:00:00+05:30</lastmod>
-    <priority>0</priority>
-  </url>
   
   <url>
     <loc>/post/facebook_data_grant/</loc>
@@ -20,14 +9,12 @@
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2020-01-02T00:00:00+05:30</lastmod>
-    <priority>0</priority>
+    <lastmod>2020-01-18T08:49:52+05:30</lastmod>
   </url>
   
   <url>
     <loc>/tags/education/</loc>
     <lastmod>2020-01-02T00:00:00+05:30</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -37,14 +24,12 @@
   
   <url>
     <loc>/authors/punyajoy-saha/</loc>
-    <lastmod>2020-01-02T00:00:00+05:30</lastmod>
-    <priority>0</priority>
+    <lastmod>2020-01-18T08:49:52+05:30</lastmod>
   </url>
   
   <url>
     <loc>/tags/</loc>
     <lastmod>2020-01-02T00:00:00+05:30</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -54,20 +39,17 @@
   
   <url>
     <loc>/publication_types/1/</loc>
-    <lastmod>2019-12-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2020-01-18T08:49:52+05:30</lastmod>
   </url>
   
   <url>
     <loc>/authors/animesh-mukherjee/</loc>
-    <lastmod>2019-12-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2020-01-18T08:49:52+05:30</lastmod>
   </url>
   
   <url>
     <loc>/authors/binny-mathews/</loc>
-    <lastmod>2019-12-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2020-01-18T08:49:52+05:30</lastmod>
   </url>
   
   <url>
@@ -77,54 +59,42 @@
   
   <url>
     <loc>/authors/pawan-goyal/</loc>
-    <lastmod>2019-12-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2020-01-18T08:49:52+05:30</lastmod>
   </url>
   
   <url>
     <loc>/publication_types/</loc>
-    <lastmod>2019-12-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2019-12-15T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-18T08:49:52+05:30</lastmod>
   </url>
   
   <url>
     <loc>/authors/hardik-tharad/</loc>
-    <lastmod>2019-06-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2020-01-18T08:49:52+05:30</lastmod>
   </url>
   
   <url>
     <loc>/authors/prajwal-singhania/</loc>
-    <lastmod>2019-06-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2020-01-18T08:49:52+05:30</lastmod>
   </url>
   
   <url>
     <loc>/authors/subham-rajgaria/</loc>
-    <lastmod>2019-06-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2020-01-18T08:49:52+05:30</lastmod>
   </url>
   
   <url>
     <loc>/authors/suman-kalyan-maity/</loc>
-    <lastmod>2019-06-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2020-01-18T08:49:52+05:30</lastmod>
   </url>
   
   <url>
     <loc>/publication/icwsm_2019/</loc>
-    <lastmod>2019-06-13T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-18T08:49:52+05:30</lastmod>
   </url>
   
   <url>
     <loc>/publication_types/0/</loc>
     <lastmod>2018-12-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -135,7 +105,6 @@
   <url>
     <loc>/authors/chetan-ralekar/</loc>
     <lastmod>2018-11-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -146,13 +115,11 @@
   <url>
     <loc>/authors/santanu-chaudhury/</loc>
     <lastmod>2018-11-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/tapan-k.-gandhi/</loc>
     <lastmod>2018-11-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -163,26 +130,40 @@
   <url>
     <loc>/authors/jaya-sil/</loc>
     <lastmod>2018-04-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/sandipan-sarma/</loc>
     <lastmod>2018-04-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/admin/</loc>
+    <lastmod>2019-06-16T08:32:47+05:30</lastmod>
   </url>
   
   <url>
     <loc>/categories/</loc>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2019-05-06T17:54:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2019-05-06T17:54:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-03-17T20:39:18+00:00</lastmod>
   </url>
   
   <url>
     <loc>/talk/</loc>
+    <lastmod>2019-05-06T17:54:11+01:00</lastmod>
   </url>
   
 </urlset>

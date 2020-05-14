@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Santanu Chaudhury on Punyajoy Saha</title>
@@ -6,6 +6,7 @@
     <description>Recent content in Santanu Chaudhury on Punyajoy Saha</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>&amp;copy;2019</copyright>
     <lastBuildDate>Sat, 10 Nov 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/authors/santanu-chaudhury/index.xml" rel="self" type="application/rss+xml" />
