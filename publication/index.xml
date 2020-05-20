@@ -1,21 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Punyajoy Saha</title>
+    <title>Publications | Biography</title>
     <link>/publication/</link>
-    <description>Recent content in Publications on Punyajoy Saha</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy;2019</copyright>
-    
-	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 15 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Publications</title>
+      <link>/publication/</link>
+    </image>
     
     <item>
       <title>HateMonitors: Language Agnostic AbuseDetection in Social Media</title>
       <link>/publication/hasoc_2019/</link>
       <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
-      
       <guid>/publication/hasoc_2019/</guid>
       <description></description>
     </item>
@@ -24,16 +24,24 @@
       <title>Thou shalt not hate: Countering Online Hate Speech</title>
       <link>/publication/icwsm_2019/</link>
       <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
-      
       <guid>/publication/icwsm_2019/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>An example preprint / working paper</title>
+      <link>/publication/preprint/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/preprint/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Hateminers: Detecting Hatespeech against Women</title>
       <link>/publication/evalita_ami_2018/</link>
       <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
-      
       <guid>/publication/evalita_ami_2018/</guid>
       <description></description>
     </item>
@@ -42,7 +50,6 @@
       <title>Effect of Devanagari Font Type in Reading Comprehension: An Eye Tracking Study</title>
       <link>/publication/ihci_2018/</link>
       <pubDate>Sat, 10 Nov 2018 00:00:00 +0000</pubDate>
-      
       <guid>/publication/ihci_2018/</guid>
       <description></description>
     </item>
@@ -51,9 +58,30 @@
       <title>Document Categorization Using Graph Structuring</title>
       <link>/publication/iccacp_2018/</link>
       <pubDate>Sat, 21 Apr 2018 00:00:00 +0000</pubDate>
-      
       <guid>/publication/iccacp_2018/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>An example journal article</title>
+      <link>/publication/journal-article/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example conference paper</title>
+      <link>/publication/conference-paper/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
