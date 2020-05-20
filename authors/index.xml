@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 02 Jan 2020 00:00:00 +0530</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Thu, 02 Jan 2020 00:00:00 +0530</lastBuildDate>
     <item>
       <title>Punyajoy Saha</title>
       <link>/authors/punyajoy-saha/</link>
@@ -71,15 +71,6 @@
     </item>
     
     <item>
-      <title></title>
-      <link>/authors/admin/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Punyajoy Saha&lt;/strong&gt; is a PhD student at &lt;a href=&#34;http://www.cnergres.iitkgp.ac.in/&#34;&gt;CNeRG Lab&lt;/a&gt; in the Department of Computer Science and Engineering at &lt;a href=&#34;http://www.iitkgp.ac.in/&#34;&gt;IIT Kharagpur&lt;/a&gt;, West Bengal. Currently, he is doing research in the area of social computing and natural language processing domain under the supervision of &lt;a href=&#34;http://cse.iitkgp.ac.in/~animeshm/&#34;&gt;&lt;strong&gt;Prof. Animesh Mukherjee&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;http://cse.iitkgp.ac.in/~pawang/&#34;&gt;&lt;strong&gt;Prof. Pawan Goyal&lt;/strong&gt;&lt;/a&gt;. Apart from research, he also loves playing guitar and writing short stories.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Chetan Ralekar</title>
       <link>/authors/chetan-ralekar/</link>
       <pubDate>Sat, 10 Nov 2018 00:00:00 +0000</pubDate>
@@ -120,11 +111,12 @@
     </item>
     
     <item>
-      <title>Robert Ford</title>
-      <link>/authors/robert-ford/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>/authors/robert-ford/</guid>
-      <description></description>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Punyajoy Saha&lt;/strong&gt; is a PhD student at &lt;a href=&#34;http://www.cnergres.iitkgp.ac.in/&#34;&gt;CNeRG Lab&lt;/a&gt; in the Department of Computer Science and Engineering at &lt;a href=&#34;http://www.iitkgp.ac.in/&#34;&gt;IIT Kharagpur&lt;/a&gt;, West Bengal. Currently, he is doing research in the area of social computing and natural language processing domain under the supervision of &lt;a href=&#34;http://cse.iitkgp.ac.in/~animeshm/&#34;&gt;&lt;strong&gt;Prof. Animesh Mukherjee&lt;/strong&gt;&lt;/a&gt;. Apart from research, he also loves playing guitar and writing short stories.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

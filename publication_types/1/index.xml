@@ -5,15 +5,15 @@
     <link>/publication_types/1/</link>
       <atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 15 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Sun, 15 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>/img/clipart.png</url>
       <title>1</title>
       <link>/publication_types/1/</link>
     </image>
     
     <item>
-      <title>HateMonitors: Language Agnostic AbuseDetection in Social Media</title>
+      <title>HateMonitors: Language Agnostic Abuse Detection in Social Media</title>
       <link>/publication/hasoc_2019/</link>
       <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
       <guid>/publication/hasoc_2019/</guid>
@@ -42,17 +42,6 @@
       <pubDate>Sat, 21 Apr 2018 00:00:00 +0000</pubDate>
       <guid>/publication/iccacp_2018/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>An example conference paper</title>
-      <link>/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/conference-paper/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
     </item>
     
   </channel>
