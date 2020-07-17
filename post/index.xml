@@ -13,11 +13,21 @@
     </image>
     
     <item>
+      <title>Hate alert covered by Huggingface CEO in twitter</title>
+      <link>/post/hate_alert_covered/</link>
+      <pubDate>Mon, 20 Apr 2020 00:00:00 +0530</pubDate>
+      <guid>/post/hate_alert_covered/</guid>
+      <description>&lt;p&gt;Our organisation &lt;a href=&#34;https://hate-alert.github.io/&#34;&gt;hate-alert&lt;/a&gt; got covered by the &lt;a href=&#34;https://twitter.com/ClementDelangue/status/1283399355819597825?s=15&#34;&gt;CEO of huggingface&lt;/a&gt;. We did a large scale analysis on multilingual hate speech detection using various state of the art models. Check our models &lt;a href=&#34;https://github.com/punyajoy/DE-LIMIT&#34;&gt;here&lt;/a&gt; , our paper &lt;a href=&#34;https://arxiv.org/abs/2004.06465&#34;&gt;here&lt;/a&gt;. If you just want to check the inference go &lt;a href=&#34;https://huggingface.co/Hate-speech-CNERG&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Winner of Facebook and Social Science One data grant</title>
       <link>/post/facebook_data_grant/</link>
       <pubDate>Mon, 20 Apr 2020 00:00:00 +0530</pubDate>
       <guid>/post/facebook_data_grant/</guid>
-      <description></description>
+      <description>&lt;p&gt;We won the data grant from &lt;a href=&#34;https://socialscience.one/blog/unprecedented-facebook-urls-dataset-now-available-research-through-social-science-one&#34;&gt;facebook + social science one&lt;/a&gt; which comes with a &lt;strong&gt;huge amount&lt;/strong&gt;(1 trillion!!) of urls and their metadata from facebook under a differential privacy regime.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -25,15 +35,17 @@
       <link>/post/entered_phd/</link>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0530</pubDate>
       <guid>/post/entered_phd/</guid>
-      <description></description>
+      <description>&lt;p&gt;❤&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Work on misogyny detection recognised by MIT Technical Review</title>
+      <title>Misogyny detection recognised by MIT Technical Review</title>
       <link>/post/best_preprint/</link>
       <pubDate>Sun, 29 Dec 2019 00:00:00 +0530</pubDate>
       <guid>/post/best_preprint/</guid>
-      <description></description>
+      <description>&lt;p&gt;Our work in misogyny detection get recognised by MIT Technical Review &lt;a href=&#34;https://www.technologyreview.com/2018/12/29/138019/the-best-of-the-physics-arxiv-week-ending-december-29-2018/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

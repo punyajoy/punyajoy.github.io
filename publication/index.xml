@@ -5,12 +5,20 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Sun, 15 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Wed, 15 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon.png</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>Deep Learning Models for Multilingual Hate Speech Detection</title>
+      <link>/publication/ecml_pkdd_2020/</link>
+      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/ecml_pkdd_2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>HateMonitors: Language Agnostic Abuse Detection in Social Media</title>

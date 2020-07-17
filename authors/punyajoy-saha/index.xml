@@ -5,13 +5,31 @@
     <link>/authors/punyajoy-saha/</link>
       <atom:link href="/authors/punyajoy-saha/index.xml" rel="self" type="application/rss+xml" />
     <description>Punyajoy Saha</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Thu, 02 Jan 2020 00:00:00 +0530</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Mon, 20 Apr 2020 00:00:00 +0530</lastBuildDate>
+    <item>
+      <title>Hate alert covered by Huggingface CEO in twitter</title>
+      <link>/post/hate_alert_covered/</link>
+      <pubDate>Mon, 20 Apr 2020 00:00:00 +0530</pubDate>
+      <guid>/post/hate_alert_covered/</guid>
+      <description>&lt;p&gt;Our organisation &lt;a href=&#34;https://hate-alert.github.io/&#34;&gt;hate-alert&lt;/a&gt; got covered by the &lt;a href=&#34;https://twitter.com/ClementDelangue/status/1283399355819597825?s=15&#34;&gt;CEO of huggingface&lt;/a&gt;. We did a large scale analysis on multilingual hate speech detection using various state of the art models. Check our models &lt;a href=&#34;https://github.com/punyajoy/DE-LIMIT&#34;&gt;here&lt;/a&gt; , our paper &lt;a href=&#34;https://arxiv.org/abs/2004.06465&#34;&gt;here&lt;/a&gt;. If you just want to check the inference go &lt;a href=&#34;https://huggingface.co/Hate-speech-CNERG&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning Models for Multilingual Hate Speech Detection</title>
+      <link>/publication/ecml_pkdd_2020/</link>
+      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/ecml_pkdd_2020/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Joined PhD in January 2020</title>
       <link>/post/entered_phd/</link>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0530</pubDate>
       <guid>/post/entered_phd/</guid>
-      <description></description>
+      <description>&lt;p&gt;❤&lt;/p&gt;
+</description>
     </item>
     
     <item>

@@ -5,11 +5,11 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Thu, 02 Jan 2020 00:00:00 +0530</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Mon, 20 Apr 2020 00:00:00 +0530</lastBuildDate>
     <item>
       <title>Punyajoy Saha</title>
       <link>/authors/punyajoy-saha/</link>
-      <pubDate>Thu, 02 Jan 2020 00:00:00 +0530</pubDate>
+      <pubDate>Mon, 20 Apr 2020 00:00:00 +0530</pubDate>
       <guid>/authors/punyajoy-saha/</guid>
       <description></description>
     </item>
@@ -17,7 +17,7 @@
     <item>
       <title>Animesh Mukherjee</title>
       <link>/authors/animesh-mukherjee/</link>
-      <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
       <guid>/authors/animesh-mukherjee/</guid>
       <description></description>
     </item>
@@ -25,8 +25,16 @@
     <item>
       <title>Binny Mathews</title>
       <link>/authors/binny-mathews/</link>
-      <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
       <guid>/authors/binny-mathews/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sai Saketh Aluru</title>
+      <link>/authors/sai-saketh-aluru/</link>
+      <pubDate>Wed, 15 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/sai-saketh-aluru/</guid>
       <description></description>
     </item>
     

@@ -33,7 +33,22 @@
   </url>
   
   <url>
+    <loc>/authors/</loc>
+    <lastmod>2020-04-20T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/hate_alert_covered/</loc>
+    <lastmod>2020-04-20T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/</loc>
+    <lastmod>2020-04-20T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/punyajoy-saha/</loc>
     <lastmod>2020-04-20T00:00:00+05:30</lastmod>
   </url>
   
@@ -43,8 +58,38 @@
   </url>
   
   <url>
-    <loc>/authors/</loc>
-    <lastmod>2020-01-02T00:00:00+05:30</lastmod>
+    <loc>/publication_types/1/</loc>
+    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/animesh-mukherjee/</loc>
+    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/binny-mathews/</loc>
+    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/ecml_pkdd_2020/</loc>
+    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/sai-saketh-aluru/</loc>
+    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -54,11 +99,6 @@
   
   <url>
     <loc>/post/entered_phd/</loc>
-    <lastmod>2020-01-02T00:00:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/punyajoy-saha/</loc>
     <lastmod>2020-01-02T00:00:00+05:30</lastmod>
   </url>
   
@@ -73,37 +113,12 @@
   </url>
   
   <url>
-    <loc>/publication_types/1/</loc>
-    <lastmod>2019-12-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/animesh-mukherjee/</loc>
-    <lastmod>2019-12-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/binny-mathews/</loc>
-    <lastmod>2019-12-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/hasoc_2019/</loc>
     <lastmod>2019-12-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/pawan-goyal/</loc>
-    <lastmod>2019-12-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2019-12-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
     <lastmod>2019-12-15T00:00:00+00:00</lastmod>
   </url>
   
