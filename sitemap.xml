@@ -43,17 +43,27 @@
   </url>
   
   <url>
+    <loc>/authors/anurag-illendula/</loc>
+    <lastmod>2020-07-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/</loc>
     <lastmod>2020-07-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/binny-mathews/</loc>
+    <loc>/authors/binny-mathew/</loc>
     <lastmod>2020-07-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/cscw_2020/</loc>
+    <lastmod>2020-07-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/pawan-goyal/</loc>
     <lastmod>2020-07-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -73,7 +83,7 @@
   </url>
   
   <url>
-    <loc>/authors/sai-saketh-aluru/</loc>
+    <loc>/authors/soumya-sarkar/</loc>
     <lastmod>2020-07-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -103,7 +113,17 @@
   </url>
   
   <url>
+    <loc>/authors/binny-mathews/</loc>
+    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/ecml_pkdd_2020/</loc>
+    <lastmod>2020-04-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/sai-saketh-aluru/</loc>
     <lastmod>2020-04-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -129,11 +149,6 @@
   
   <url>
     <loc>/publication/hasoc_2019/</loc>
-    <lastmod>2019-12-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/pawan-goyal/</loc>
     <lastmod>2019-12-15T00:00:00+00:00</lastmod>
   </url>
   

@@ -5,7 +5,15 @@
     <link>/authors/pawan-goyal/</link>
       <atom:link href="/authors/pawan-goyal/index.xml" rel="self" type="application/rss+xml" />
     <description>Pawan Goyal</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Sun, 15 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Sat, 25 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Hate begets Hate: A Temporal Study of Hate Speech</title>
+      <link>/publication/cscw_2020/</link>
+      <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/cscw_2020/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>HateMonitors: Language Agnostic Abuse Detection in Social Media</title>
       <link>/publication/hasoc_2019/</link>
