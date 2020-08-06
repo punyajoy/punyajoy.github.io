@@ -5,7 +5,7 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Mon, 20 Apr 2020 00:00:00 +0530</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Fri, 24 Jul 2020 00:00:00 +0530</lastBuildDate>
     <image>
       <url>/img/icon.png</url>
       <title>Posts</title>
@@ -13,11 +13,30 @@
     </image>
     
     <item>
+      <title>Paper on temporal effects of hate speech got accepted in CSCW 2020</title>
+      <link>/post/cscw_accepted/</link>
+      <pubDate>Fri, 24 Jul 2020 00:00:00 +0530</pubDate>
+      <guid>/post/cscw_accepted/</guid>
+      <description>&lt;p&gt;Our paper &amp;ldquo;Hate begets Hate: A Temporal Study of Hate Speech&amp;rdquo; got accepted at CSCW 2020.
+&lt;a href=&#34;https://arxiv.org/abs/1909.10966&#34;&gt;arXiv Draft&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Hate alert covered by Huggingface CEO in twitter</title>
       <link>/post/hate_alert_covered/</link>
-      <pubDate>Mon, 20 Apr 2020 00:00:00 +0530</pubDate>
+      <pubDate>Wed, 15 Jul 2020 00:00:00 +0530</pubDate>
       <guid>/post/hate_alert_covered/</guid>
       <description>&lt;p&gt;Our organisation &lt;a href=&#34;https://hate-alert.github.io/&#34;&gt;hate-alert&lt;/a&gt; got covered by the &lt;a href=&#34;https://twitter.com/ClementDelangue/status/1283399355819597825?s=15&#34;&gt;CEO of huggingface&lt;/a&gt;. We did a large scale analysis on multilingual hate speech detection using various state of the art models. Check our models &lt;a href=&#34;https://github.com/punyajoy/DE-LIMIT&#34;&gt;here&lt;/a&gt; , our paper &lt;a href=&#34;https://arxiv.org/abs/2004.06465&#34;&gt;here&lt;/a&gt;. If you just want to check the inference go &lt;a href=&#34;https://huggingface.co/Hate-speech-CNERG&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Paper on multilingual hate speech detection accepted at ECML PKDD 2020</title>
+      <link>/post/ecml-pkdd-accepted/</link>
+      <pubDate>Sat, 20 Jun 2020 00:00:00 +0530</pubDate>
+      <guid>/post/ecml-pkdd-accepted/</guid>
+      <description>&lt;p&gt;Our Paper got accepted ECMLPKDD 2020. Check our models &lt;a href=&#34;https://github.com/punyajoy/DE-LIMIT&#34;&gt;here&lt;/a&gt; , our paper &lt;a href=&#34;https://arxiv.org/abs/2004.06465&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
