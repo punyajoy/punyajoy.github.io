@@ -5,7 +5,25 @@
     <link>/authors/punyajoy-saha/</link>
       <atom:link href="/authors/punyajoy-saha/index.xml" rel="self" type="application/rss+xml" />
     <description>Punyajoy Saha</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Sat, 25 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0530</lastBuildDate>
+    <item>
+      <title>Paper on Explainable hate speech dataset accepted at AAAI 2021</title>
+      <link>/post/aaai21_accepted/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0530</pubDate>
+      <guid>/post/aaai21_accepted/</guid>
+      <description>&lt;p&gt;Our paper &amp;ldquo;HateXplain: A Benchmark Dataset for Explainable Hate Speech Detection&amp;rdquo; has been accepted as full paper at AAAI-21 . Joint work with Binny Mathew, Seid Muhie Yimam, Charis Biemann, Pawan Goyal and Animesh mukherjee. Check this &lt;a href=&#34;https://twitter.com/punyajoysaha/status/1334178367956914176&#34;&gt;twitter_link&lt;/a&gt; to know more. Paper and code will be out soon.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>World rank 18th in Hatememe detection competition organised by Facebook</title>
+      <link>/post/facebook_18th/</link>
+      <pubDate>Fri, 30 Oct 2020 00:00:00 +0530</pubDate>
+      <guid>/post/facebook_18th/</guid>
+      <description>&lt;p&gt;We rank 18th in the world among more than 3000 participants , in a competition detecting hate meme - A competition organised by Facebook on Driven Data platform. More in this &lt;a href=&#34;https://www.drivendata.org/competitions/70/hateful-memes-phase-2/leaderboard/&#34;&gt;url&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
     <item>
       <title>Hate begets Hate: A Temporal Study of Hate Speech</title>
       <link>/publication/cscw_2020/</link>

@@ -5,7 +5,15 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Sat, 25 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0530</lastBuildDate>
+    <item>
+      <title>Punyajoy Saha</title>
+      <link>/authors/punyajoy-saha/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0530</pubDate>
+      <guid>/authors/punyajoy-saha/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Animesh Mukherjee</title>
       <link>/authors/animesh-mukherjee/</link>
@@ -35,14 +43,6 @@
       <link>/authors/pawan-goyal/</link>
       <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
       <guid>/authors/pawan-goyal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Punyajoy Saha</title>
-      <link>/authors/punyajoy-saha/</link>
-      <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/punyajoy-saha/</guid>
       <description></description>
     </item>
     
