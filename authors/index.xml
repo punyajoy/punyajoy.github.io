@@ -5,20 +5,60 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0530</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Tue, 09 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Animesh Mukherjee</title>
+      <link>/authors/animesh-mukherjee/</link>
+      <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/animesh-mukherjee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Binny Mathew</title>
+      <link>/authors/binny-mathew/</link>
+      <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/binny-mathew/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kiran Garimella</title>
+      <link>/authors/kiran-garimella/</link>
+      <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/kiran-garimella/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Punyajoy Saha</title>
       <link>/authors/punyajoy-saha/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0530</pubDate>
+      <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
       <guid>/authors/punyajoy-saha/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Animesh Mukherjee</title>
-      <link>/authors/animesh-mukherjee/</link>
-      <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/animesh-mukherjee/</guid>
+      <title>Chris Biemann</title>
+      <link>/authors/chris-biemann/</link>
+      <pubDate>Fri, 18 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/chris-biemann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pawan Goyal</title>
+      <link>/authors/pawan-goyal/</link>
+      <pubDate>Fri, 18 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/pawan-goyal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seid Muhie Yimam</title>
+      <link>/authors/seid-muhie-yimam/</link>
+      <pubDate>Fri, 18 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/seid-muhie-yimam/</guid>
       <description></description>
     </item>
     
@@ -27,22 +67,6 @@
       <link>/authors/anurag-illendula/</link>
       <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
       <guid>/authors/anurag-illendula/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Binny Mathew</title>
-      <link>/authors/binny-mathew/</link>
-      <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/binny-mathew/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pawan Goyal</title>
-      <link>/authors/pawan-goyal/</link>
-      <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/pawan-goyal/</guid>
       <description></description>
     </item>
     
