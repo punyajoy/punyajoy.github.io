@@ -5,12 +5,21 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Sat, 13 Feb 2021 00:00:00 +0530</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Fri, 14 May 2021 00:00:00 +0530</lastBuildDate>
     <image>
       <url>/img/icon.png</url>
       <title>Posts</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>Paper on Fear speech in Indian public Whatsapp groups to be presented at IC2S2 2021</title>
+      <link>/post/ic2s2_2021-accepted/</link>
+      <pubDate>Fri, 14 May 2021 00:00:00 +0530</pubDate>
+      <guid>/post/ic2s2_2021-accepted/</guid>
+      <description>&lt;p&gt;Our paper “Short is the Road that Leads from Fear to Hate&amp;rdquo;:Fear Speech in Indian WhatsApp Groups” will be presented at &lt;a href=&#34;https://ic2s2-2021.ethz.ch/&#34;&gt;IC2S2&lt;/a&gt; conference. Joint work with Binny Mathew, Kiran Garimella and Animesh mukherjee. Check this &lt;a href=&#34;https://twitter.com/punyajoysaha/status/1350328828678135812&#34;&gt;twitter_link&lt;/a&gt; to know more. Paper and code is out.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Tutorial on &#39;Hate speech- Detection, Mitigation and beyond&#39; accepted at ICWSM 2021</title>
@@ -36,15 +45,6 @@
       <pubDate>Fri, 15 Jan 2021 00:00:00 +0530</pubDate>
       <guid>/post/www2021_accepted/</guid>
       <description>&lt;p&gt;Our paper “Short is the Road that Leads from Fear to Hate&amp;rdquo;:Fear Speech in Indian WhatsApp Groups” has been accepted as full paper at The Webconference -21 . Joint work with Binny Mathew, Kiran Garimella and Animesh mukherjee. Check this &lt;a href=&#34;https://twitter.com/punyajoysaha/status/1350328828678135812&#34;&gt;twitter_link&lt;/a&gt; to know more. Paper and code is out.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Paper on Fear speech in Indian public Whatsapp groups to be presented at IC2S2 2021</title>
-      <link>/post/ic2s2_2021-accepted/</link>
-      <pubDate>Fri, 15 Jan 2021 00:00:00 +0530</pubDate>
-      <guid>/post/ic2s2_2021-accepted/</guid>
-      <description>&lt;p&gt;Our paper “Short is the Road that Leads from Fear to Hate&amp;rdquo;:Fear Speech in Indian WhatsApp Groups” will be presented at &lt;a href=&#34;https://ic2s2-2021.ethz.ch/&#34;&gt;IC2S2&lt;/a&gt; conference. Joint work with Binny Mathew, Kiran Garimella and Animesh mukherjee. Check this &lt;a href=&#34;https://twitter.com/punyajoysaha/status/1350328828678135812&#34;&gt;twitter_link&lt;/a&gt; to know more. Paper and code is out.&lt;/p&gt;
 </description>
     </item>
     
