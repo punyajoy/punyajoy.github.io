@@ -91,11 +91,47 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-SN93JQ8EB9"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           document.location = url;
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target);  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-SN93JQ8EB9', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
   
-  <link rel="alternate" href="/publication_types/2/index.xml" type="application/rss+xml" title="Biography">
+  <link rel="alternate" href="/publication_types/2/index.xml" type="application/rss+xml" title="Punyajoy Saha">
   
 
   <link rel="manifest" href="/index.webmanifest">
@@ -109,35 +145,37 @@
   
   
     
-    
   
   
-  <meta property="twitter:card" content="summary">
+  <meta property="twitter:card" content="summary_large_image">
   
-  <meta property="og:site_name" content="Biography">
+  <meta property="twitter:site" content="@punyajoysaha">
+  <meta property="twitter:creator" content="@punyajoysaha">
+  
+  <meta property="og:site_name" content="Punyajoy Saha">
   <meta property="og:url" content="/publication_types/2/">
-  <meta property="og:title" content="2 | Biography">
-  <meta property="og:description" content="PhD student"><meta property="og:image" content="/img/icon-192.png">
-  <meta property="twitter:image" content="/img/icon-192.png"><meta property="og:locale" content="en-us">
+  <meta property="og:title" content="2 | Punyajoy Saha">
+  <meta property="og:description" content="PhD student"><meta property="og:image" content="/img/icon.png">
+  <meta property="twitter:image" content="/img/icon.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2015-09-01T00:00:00&#43;00:00">
+    <meta property="og:updated_time" content="2021-02-19T00:00:00&#43;00:00">
   
-
-  
-
-
-
-
-  
-
 
   
 
 
 
 
+  
 
-  <title>2 | Biography</title>
+
+  
+
+
+
+
+
+  <title>2 | Punyajoy Saha</title>
 
 </head>
 
@@ -182,7 +220,7 @@
     
     
     
-      <a class="navbar-brand" href="/">Biography</a>
+      <a class="navbar-brand" href="/">Punyajoy Saha</a>
     
 
     
@@ -194,7 +232,7 @@
 
     
     
-    <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+    <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
 
       
       <ul class="navbar-nav d-md-inline-flex">
@@ -252,7 +290,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#featured"><span>Publications</span></a>
+          <a class="nav-link " href="/#publications"><span>Publications</span></a>
         </li>
 
         
@@ -372,10 +410,10 @@
   
   
   <div>
-    <h2><a href="/publication/journal-article/">An example journal article</a></h2>
+    <h2><a href="/publication/eacl_2021/">Hate-Alert@ DravidianLangTech-EACL2021: Ensembling strategies for Transformer-based Offensive language Detection</a></h2>
     <div class="article-style">
       
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+      Social media often acts as breeding grounds for different forms of offensive content. For low resource languages like Tamil, the situation is more complex due to the poor performance of multilingual or language-specific models and lack of proper …
       
     </div>
   </div>
@@ -500,7 +538,7 @@
   
 
   <p class="powered-by">
-    
+    ©2019 &middot; 
 
     Powered by the
     <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for

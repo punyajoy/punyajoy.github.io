@@ -1,17 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>2 | Punyajoy Saha</title>
-    <link>/publication_types/2/</link>
-      <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
-    <description>2</description>
+    <title>Naman Paharia | Punyajoy Saha</title>
+    <link>/authors/naman-paharia/</link>
+      <atom:link href="/authors/naman-paharia/index.xml" rel="self" type="application/rss+xml" />
+    <description>Naman Paharia</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Fri, 19 Feb 2021 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>/img/icon.png</url>
-      <title>2</title>
-      <link>/publication_types/2/</link>
-    </image>
-    
     <item>
       <title>Hate-Alert@ DravidianLangTech-EACL2021: Ensembling strategies for Transformer-based Offensive language Detection</title>
       <link>/publication/eacl_2021/</link>
