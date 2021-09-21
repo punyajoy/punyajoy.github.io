@@ -5,7 +5,48 @@
     <link>/authors/punyajoy-saha/</link>
       <atom:link href="/authors/punyajoy-saha/index.xml" rel="self" type="application/rss+xml" />
     <description>Punyajoy Saha</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Fri, 14 May 2021 00:00:00 +0530</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Tue, 21 Sep 2021 00:00:00 +0530</lastBuildDate>
+    <item>
+      <title>Invited talk in  Understanding and Automating Counterspeech workshop organised by CRASSH</title>
+      <link>/post/talk_on_counterspeech/</link>
+      <pubDate>Tue, 21 Sep 2021 00:00:00 +0530</pubDate>
+      <guid>/post/talk_on_counterspeech/</guid>
+      <description>&lt;p&gt;I have been invited to present my research on counter speech and its challenges. More on the event can be found here &lt;a href=&#34;http://www.crassh.cam.ac.uk/events/29885&#34;&gt;http://www.crassh.cam.ac.uk/events/29885&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Our paper hateful user detection paper has won the highly presitgious Ted Nelson Newcomer Award at ACM Hypertext 2021.</title>
+      <link>/post/acmht_2021/</link>
+      <pubDate>Thu, 02 Sep 2021 00:00:00 +0530</pubDate>
+      <guid>/post/acmht_2021/</guid>
+      <description>&lt;p&gt;Our paper &amp;ldquo;You too Brutus! Trapping Hateful Users in Social Media: Challenges, Solutions &amp;amp; Insights&amp;rdquo; was won the Ted Nelson Newcomer Award at ACM Hypertext 2021. The award nomination is present here : &lt;a href=&#34;https://ht.acm.org/ht2021/programme/best-paper-awards/&#34;&gt;https://ht.acm.org/ht2021/programme/best-paper-awards/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title> 1st in both subtasks of Abusive and Threatening Language Detection for Tweets in Urdu: Abusive Language Detection at FIRE 2021</title>
+      <link>/post/opensoc_2021/</link>
+      <pubDate>Tue, 31 Aug 2021 00:00:00 +0530</pubDate>
+      <guid>/post/opensoc_2021/</guid>
+      <description>&lt;p&gt;Our team hate-alert has ranked 1st in both subtasks in Abusive and Threatening Language Detection for Tweets in Urdu. The two subtasks are The task is composed of two binary classification subtasks: (A) abusive intent; (B) threatening intent. Paper and code will be out soon. Check the leaderboard : &lt;a href=&#34;https://ods.ai/tracks/open-science-soc2021/competitions/urdu-hack-soc2021/leaderboard&#34;&gt;https://ods.ai/tracks/open-science-soc2021/competitions/urdu-hack-soc2021/leaderboard&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>You too Brutus! Trapping Hateful Users in Social Media: Challenges, Solutions &amp; Insights</title>
+      <link>/publication/acmht_2021/</link>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/acmht_2021/</guid>
+      <description>&lt;h3 id=&#34;main-contributions&#34;&gt;Main contributions&lt;/h3&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;
+&lt;h3 id=&#34;limitations&#34;&gt;Limitations&lt;/h3&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;
+&lt;h3 id=&#34;future-directions&#34;&gt;Future Directions&lt;/h3&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;
+</description>
+    </item>
+    
     <item>
       <title>Paper on Fear speech in Indian public Whatsapp groups to be presented at IC2S2 2021</title>
       <link>/post/ic2s2_2021-accepted/</link>
@@ -68,11 +109,11 @@
     </item>
     
     <item>
-      <title>World rank 18th in Hatememe detection competition organised by Facebook</title>
-      <link>/post/facebook_18th/</link>
+      <title>World rank 11th in Hatememe detection competition organised by Facebook</title>
+      <link>/post/facebook_11th/</link>
       <pubDate>Fri, 30 Oct 2020 00:00:00 +0530</pubDate>
-      <guid>/post/facebook_18th/</guid>
-      <description>&lt;p&gt;We rank 18th in the world among more than 3000 participants , in a competition detecting hate meme - A competition organised by Facebook on Driven Data platform. More in this &lt;a href=&#34;https://www.drivendata.org/competitions/70/hateful-memes-phase-2/leaderboard/&#34;&gt;url&lt;/a&gt;&lt;/p&gt;
+      <guid>/post/facebook_11th/</guid>
+      <description>&lt;p&gt;We rank 11th in the world among more than 3000 participants , in a competition detecting hate meme - A competition organised by Facebook on Driven Data platform. More in this &lt;a href=&#34;https://www.drivendata.org/competitions/70/hateful-memes-phase-2/leaderboard/&#34;&gt;url&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
