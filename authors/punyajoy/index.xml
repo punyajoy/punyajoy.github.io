@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>punyajoy | Punyajoy Saha</title>
+    <link>/authors/punyajoy/</link>
+      <atom:link href="/authors/punyajoy/index.xml" rel="self" type="application/rss+xml" />
+    <description>punyajoy</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Mon, 27 Sep 2021 18:30:00 +0530</lastBuildDate>
+    <item>
+      <title>Automating Counterspeech: Challenges and Opportunities</title>
+      <link>/talk/crrash_talk/</link>
+      <pubDate>Mon, 27 Sep 2021 18:30:00 +0530</pubDate>
+      <guid>/talk/crrash_talk/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

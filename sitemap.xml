@@ -18,23 +18,28 @@
   </url>
   
   <url>
-    <loc>/talk/example/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <loc>/authors/</loc>
+    <lastmod>2021-09-27T18:30:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/crrash_talk/</loc>
+    <lastmod>2021-09-27T18:30:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/punyajoy/</loc>
+    <lastmod>2021-09-27T18:30:00+05:30</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <lastmod>2021-09-27T18:30:00+05:30</lastmod>
   </url>
   
   <url>
     <loc>/talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
-    <lastmod>2021-09-21T00:00:00+05:30</lastmod>
+    <lastmod>2021-09-27T18:30:00+05:30</lastmod>
   </url>
   
   <url>
@@ -105,6 +110,16 @@
   <url>
     <loc>/publication/acmht_2021/</loc>
     <lastmod>2021-07-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/icwsm_tutorial/</loc>
+    <lastmod>2021-06-07T18:30:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/hate-alert/</loc>
+    <lastmod>2021-06-07T18:30:00+05:30</lastmod>
   </url>
   
   <url>
