@@ -5,7 +5,32 @@
     <link>/authors/punyajoy-saha/</link>
       <atom:link href="/authors/punyajoy-saha/index.xml" rel="self" type="application/rss+xml" />
     <description>Punyajoy Saha</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Tue, 21 Sep 2021 00:00:00 +0530</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Sat, 11 Dec 2021 00:00:00 +0530</lastBuildDate>
+    <item>
+      <title>Paper on Fear speech in Indian public Whatsapp groups to be presented at ARCS 2022</title>
+      <link>/post/arcs_2022_accepted/</link>
+      <pubDate>Sat, 11 Dec 2021 00:00:00 +0530</pubDate>
+      <guid>/post/arcs_2022_accepted/</guid>
+      <description>&lt;p&gt;Our paper “Short is the Road that Leads from Fear to Hate&amp;rdquo;:Fear Speech in Indian WhatsApp Groups” will be presented at &lt;a href=&#34;https://event.india.acm.org/ARCS/&#34;&gt;ARCS&lt;/a&gt; conference. Joint work with Binny Mathew, Kiran Garimella and Animesh mukherjee. Check this &lt;a href=&#34;https://twitter.com/punyajoysaha/status/1350328828678135812&#34;&gt;twitter_link&lt;/a&gt; to know more. Paper and code is out.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Abusive and Threatening Language Detection in Urdu using Boosting based and BERT based models: A Comparative Approach</title>
+      <link>/publication/fire_2021/</link>
+      <pubDate>Sat, 27 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/fire_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring Transformer Based Models to Identify Hate Speech and Offensive Content in English and Indo-Aryan Languages</title>
+      <link>/publication/fire_2021_1/</link>
+      <pubDate>Sat, 27 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/fire_2021_1/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Invited talk in  Understanding and Automating Counterspeech workshop organised by CRASSH</title>
       <link>/post/talk_on_counterspeech/</link>

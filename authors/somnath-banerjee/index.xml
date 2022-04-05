@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Somnath Banerjee | Punyajoy Saha</title>
+    <link>/authors/somnath-banerjee/</link>
+      <atom:link href="/authors/somnath-banerjee/index.xml" rel="self" type="application/rss+xml" />
+    <description>Somnath Banerjee</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Sat, 27 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Abusive and Threatening Language Detection in Urdu using Boosting based and BERT based models: A Comparative Approach</title>
+      <link>/publication/fire_2021/</link>
+      <pubDate>Sat, 27 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/fire_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring Transformer Based Models to Identify Hate Speech and Offensive Content in English and Indo-Aryan Languages</title>
+      <link>/publication/fire_2021_1/</link>
+      <pubDate>Sat, 27 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/fire_2021_1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

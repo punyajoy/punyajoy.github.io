@@ -5,12 +5,28 @@
     <link>/publication_types/2/</link>
       <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Fri, 19 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Sat, 27 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon.png</url>
       <title>2</title>
       <link>/publication_types/2/</link>
     </image>
+    
+    <item>
+      <title>Abusive and Threatening Language Detection in Urdu using Boosting based and BERT based models: A Comparative Approach</title>
+      <link>/publication/fire_2021/</link>
+      <pubDate>Sat, 27 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/fire_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring Transformer Based Models to Identify Hate Speech and Offensive Content in English and Indo-Aryan Languages</title>
+      <link>/publication/fire_2021_1/</link>
+      <pubDate>Sat, 27 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/fire_2021_1/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Hate-Alert@ DravidianLangTech-EACL2021: Ensembling strategies for Transformer-based Offensive language Detection</title>

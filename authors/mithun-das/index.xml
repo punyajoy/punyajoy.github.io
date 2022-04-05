@@ -5,7 +5,23 @@
     <link>/authors/mithun-das/</link>
       <atom:link href="/authors/mithun-das/index.xml" rel="self" type="application/rss+xml" />
     <description>Mithun Das</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Fri, 30 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Sat, 27 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Abusive and Threatening Language Detection in Urdu using Boosting based and BERT based models: A Comparative Approach</title>
+      <link>/publication/fire_2021/</link>
+      <pubDate>Sat, 27 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/fire_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring Transformer Based Models to Identify Hate Speech and Offensive Content in English and Indo-Aryan Languages</title>
+      <link>/publication/fire_2021_1/</link>
+      <pubDate>Sat, 27 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/fire_2021_1/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>You too Brutus! Trapping Hateful Users in Social Media: Challenges, Solutions &amp; Insights</title>
       <link>/publication/acmht_2021/</link>
