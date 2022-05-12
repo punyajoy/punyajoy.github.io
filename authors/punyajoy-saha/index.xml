@@ -5,7 +5,16 @@
     <link>/authors/punyajoy-saha/</link>
       <atom:link href="/authors/punyajoy-saha/index.xml" rel="self" type="application/rss+xml" />
     <description>Punyajoy Saha</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Sat, 11 Dec 2021 00:00:00 +0530</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Sat, 30 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>CounterGeDi: A controllable approach to generate polite, detoxified and emotional counterspeech</title>
+      <link>/publication/ijcai_2022/</link>
+      <pubDate>Sat, 30 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/ijcai_2022/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;Counterspeech_IJCAI_Appendix.pdf&#34;&gt;Link&lt;/a&gt; to the supplementary file&lt;/p&gt;
+</description>
+    </item>
+    
     <item>
       <title>Paper on Fear speech in Indian public Whatsapp groups to be presented at ARCS 2022</title>
       <link>/post/arcs_2022_accepted/</link>

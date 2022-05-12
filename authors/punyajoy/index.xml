@@ -5,7 +5,16 @@
     <link>/authors/punyajoy/</link>
       <atom:link href="/authors/punyajoy/index.xml" rel="self" type="application/rss+xml" />
     <description>punyajoy</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Thu, 10 Feb 2022 18:30:00 +0530</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Thu, 12 May 2022 13:00:00 +0530</lastBuildDate>
+    <item>
+      <title>Generating counter speech with CounterGeDi@CredCo</title>
+      <link>/talk/credco_talk/</link>
+      <pubDate>Thu, 12 May 2022 13:00:00 +0530</pubDate>
+      <guid>/talk/credco_talk/</guid>
+      <description>&lt;p&gt;This talk was in the monthly meeting of &lt;a href=&#34;https://credibilitycoalition.org/&#34;&gt;CredCo&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
     <item>
       <title>Fear speech in Indian Whatsapp groups @ARCS</title>
       <link>/talk/arcs_talk/</link>

@@ -5,28 +5,60 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Wed, 23 Feb 2022 22:00:00 +0530</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Thu, 12 May 2022 13:00:00 +0530</lastBuildDate>
     <item>
-      <title>hate-alert</title>
-      <link>/authors/hate-alert/</link>
-      <pubDate>Wed, 23 Feb 2022 22:00:00 +0530</pubDate>
-      <guid>/authors/hate-alert/</guid>
+      <title>punyajoy</title>
+      <link>/authors/punyajoy/</link>
+      <pubDate>Thu, 12 May 2022 13:00:00 +0530</pubDate>
+      <guid>/authors/punyajoy/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>punyajoy</title>
-      <link>/authors/punyajoy/</link>
-      <pubDate>Thu, 10 Feb 2022 18:30:00 +0530</pubDate>
-      <guid>/authors/punyajoy/</guid>
+      <title>Adarsh Kumar</title>
+      <link>/authors/adarsh-kumar/</link>
+      <pubDate>Sat, 30 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/adarsh-kumar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Animesh Mukherjee</title>
+      <link>/authors/animesh-mukherjee/</link>
+      <pubDate>Sat, 30 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/animesh-mukherjee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Binny Mathew</title>
+      <link>/authors/binny-mathew/</link>
+      <pubDate>Sat, 30 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/binny-mathew/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kanishk Singh</title>
+      <link>/authors/kanishk-singh/</link>
+      <pubDate>Sat, 30 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/kanishk-singh/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Punyajoy Saha</title>
       <link>/authors/punyajoy-saha/</link>
-      <pubDate>Sat, 11 Dec 2021 00:00:00 +0530</pubDate>
+      <pubDate>Sat, 30 Apr 2022 00:00:00 +0000</pubDate>
       <guid>/authors/punyajoy-saha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hate-alert</title>
+      <link>/authors/hate-alert/</link>
+      <pubDate>Wed, 23 Feb 2022 22:00:00 +0530</pubDate>
+      <guid>/authors/hate-alert/</guid>
       <description></description>
     </item>
     
@@ -43,22 +75,6 @@
       <link>/authors/somnath-banerjee/</link>
       <pubDate>Sat, 27 Nov 2021 00:00:00 +0000</pubDate>
       <guid>/authors/somnath-banerjee/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Animesh Mukherjee</title>
-      <link>/authors/animesh-mukherjee/</link>
-      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>/authors/animesh-mukherjee/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Binny Mathew</title>
-      <link>/authors/binny-mathew/</link>
-      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>/authors/binny-mathew/</guid>
       <description></description>
     </item>
     
