@@ -5,12 +5,52 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Sat, 30 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Wed, 05 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon.png</url>
       <title>Tags</title>
       <link>/tags/</link>
     </image>
+    
+    <item>
+      <title>Abusive language</title>
+      <link>/tags/abusive-language/</link>
+      <pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/tags/abusive-language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detection</title>
+      <link>/tags/detection/</link>
+      <pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/tags/detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Indic</title>
+      <link>/tags/indic/</link>
+      <pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/tags/indic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multilingual</title>
+      <link>/tags/multilingual/</link>
+      <pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/tags/multilingual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our papers</title>
+      <link>/tags/our-papers/</link>
+      <pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/tags/our-papers/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>counterspeech</title>
@@ -37,10 +77,10 @@
     </item>
     
     <item>
-      <title>Our papers</title>
-      <link>/tags/our-papers/</link>
-      <pubDate>Sat, 30 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>/tags/our-papers/</guid>
+      <title>Hindi</title>
+      <link>/tags/hindi/</link>
+      <pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>/tags/hindi/</guid>
       <description></description>
     </item>
     

@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Punyajoy Saha</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Thu, 12 May 2022 13:00:00 +0530</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Wed, 05 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon.png</url>
       <title>Punyajoy Saha</title>
@@ -55,6 +55,20 @@
     </item>
     
     <item>
+      <title>Multilingual Abusive Comment Detection at Scale for Indic Languages</title>
+      <link>/publication/neurips_2022/</link>
+      <pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/neurips_2022/</guid>
+      <description>&lt;h3 id=&#34;main-contributions&#34;&gt;Main contributions&lt;/h3&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;
+&lt;h3 id=&#34;limitations&#34;&gt;Limitations&lt;/h3&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;
+&lt;h3 id=&#34;future-directions&#34;&gt;Future Directions&lt;/h3&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Generating counter speech with CounterGeDi@CredCo</title>
       <link>/talk/credco_talk/</link>
       <pubDate>Thu, 12 May 2022 13:00:00 +0530</pubDate>
@@ -69,6 +83,20 @@
       <pubDate>Sat, 30 Apr 2022 00:00:00 +0000</pubDate>
       <guid>/publication/ijcai_2022/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;Counterspeech_IJCAI_Appendix.pdf&#34;&gt;Link&lt;/a&gt; to the supplementary file&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>HateCheckHIn: Evaluating Hindi Hate Speech Detection Models</title>
+      <link>/publication/lrec_2022/</link>
+      <pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/lrec_2022/</guid>
+      <description>&lt;h3 id=&#34;main-contributions&#34;&gt;Main contributions&lt;/h3&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;
+&lt;h3 id=&#34;limitations&#34;&gt;Limitations&lt;/h3&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;
+&lt;h3 id=&#34;future-directions&#34;&gt;Future Directions&lt;/h3&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;
 </description>
     </item>
     
