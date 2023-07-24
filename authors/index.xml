@@ -5,11 +5,11 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Wed, 05 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Sat, 15 Jul 2023 00:00:00 +0000</lastBuildDate>
     <item>
       <title>[Animesh Mukherjee](https://scholar.google.com/citations?view_op=search_authors&amp;hl=en&amp;mauthors=Animesh&#43;Mukherjee&amp;btnG=)</title>
       <link>/authors/animesh-mukherjeehttps/scholar.google.com/citationsview_opsearch_authorshlenmauthorsanimesh&#43;mukherjeebtng/</link>
-      <pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
       <guid>/authors/animesh-mukherjeehttps/scholar.google.com/citationsview_opsearch_authorshlenmauthorsanimesh&#43;mukherjeebtng/</guid>
       <description></description>
     </item>
@@ -17,8 +17,112 @@
     <item>
       <title>[Binny Mathew](https://scholar.google.com/citations?view_op=search_authors&amp;hl=en&amp;mauthors=Binny&#43;Mathew&amp;btnG=)</title>
       <link>/authors/binny-mathewhttps/scholar.google.com/citationsview_opsearch_authorshlenmauthorsbinny&#43;mathewbtng/</link>
-      <pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
       <guid>/authors/binny-mathewhttps/scholar.google.com/citationsview_opsearch_authorshlenmauthorsbinny&#43;mathewbtng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Punyajoy Saha](https://scholar.google.com/citations?view_op=search_authors&amp;hl=en&amp;mauthors=Punyajoy&#43;Saha&amp;btnG=)</title>
+      <link>/authors/punyajoy-sahahttps/scholar.google.com/citationsview_opsearch_authorshlenmauthorspunyajoy&#43;sahabtng/</link>
+      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/punyajoy-sahahttps/scholar.google.com/citationsview_opsearch_authorshlenmauthorspunyajoy&#43;sahabtng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Divyanshu Sheth</title>
+      <link>/authors/divyanshu-sheth/</link>
+      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/divyanshu-sheth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kushal Kedia</title>
+      <link>/authors/kushal-kedia/</link>
+      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/kushal-kedia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Kiran Garimella](https://scholar.google.co.in/citations?user=PH96F4oAAAAJ&amp;hl=en&amp;oi=ao)</title>
+      <link>/authors/kiran-garimellahttps/scholar.google.co.in/citationsuserph96f4oaaaajhlenoiao/</link>
+      <pubDate>Sat, 03 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/kiran-garimellahttps/scholar.google.co.in/citationsuserph96f4oaaaajhlenoiao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Narla Komal Kalyana</title>
+      <link>/authors/narla-komal-kalyana/</link>
+      <pubDate>Sat, 03 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/narla-komal-kalyana/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pauras Mangesh Meher</title>
+      <link>/authors/pauras-mangesh-meher/</link>
+      <pubDate>Sat, 03 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/pauras-mangesh-meher/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Saurabh Kumar Pandeya</title>
+      <link>/authors/saurabh-kumar-pandeya/</link>
+      <pubDate>Sat, 03 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/saurabh-kumar-pandeya/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Animesh Mukherjee</title>
+      <link>/authors/animesh-mukherjee/</link>
+      <pubDate>Fri, 02 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/animesh-mukherjee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Binny Mathew</title>
+      <link>/authors/binny-mathew/</link>
+      <pubDate>Fri, 02 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/binny-mathew/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Manish Gupta</title>
+      <link>/authors/manish-gupta/</link>
+      <pubDate>Fri, 02 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/manish-gupta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mithun Das</title>
+      <link>/authors/mithun-das/</link>
+      <pubDate>Fri, 02 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/mithun-das/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Punyajoy Saha</title>
+      <link>/authors/punyajoy-saha/</link>
+      <pubDate>Fri, 02 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/punyajoy-saha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rohit Raj</title>
+      <link>/authors/rohit-raj/</link>
+      <pubDate>Fri, 02 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/rohit-raj/</guid>
       <description></description>
     </item>
     
@@ -27,14 +131,6 @@
       <link>/authors/mithun-dashttps/scholar.google.com/citationsview_opsearch_authorshlenmauthorsmithun&#43;dasbtng/</link>
       <pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate>
       <guid>/authors/mithun-dashttps/scholar.google.com/citationsview_opsearch_authorshlenmauthorsmithun&#43;dasbtng/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>[Punyajoy Saha](https://scholar.google.com/citations?view_op=search_authors&amp;hl=en&amp;mauthors=Punyajoy&#43;Saha&amp;btnG=)</title>
-      <link>/authors/punyajoy-sahahttps/scholar.google.com/citationsview_opsearch_authorshlenmauthorspunyajoy&#43;sahabtng/</link>
-      <pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>/authors/punyajoy-sahahttps/scholar.google.com/citationsview_opsearch_authorshlenmauthorspunyajoy&#43;sahabtng/</guid>
       <description></description>
     </item>
     
@@ -87,22 +183,6 @@
     </item>
     
     <item>
-      <title>Animesh Mukherjee</title>
-      <link>/authors/animesh-mukherjee/</link>
-      <pubDate>Sat, 30 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>/authors/animesh-mukherjee/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Binny Mathew</title>
-      <link>/authors/binny-mathew/</link>
-      <pubDate>Sat, 30 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>/authors/binny-mathew/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Kanishk Singh</title>
       <link>/authors/kanishk-singh/</link>
       <pubDate>Sat, 30 Apr 2022 00:00:00 +0000</pubDate>
@@ -111,26 +191,10 @@
     </item>
     
     <item>
-      <title>Punyajoy Saha</title>
-      <link>/authors/punyajoy-saha/</link>
-      <pubDate>Sat, 30 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>/authors/punyajoy-saha/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>hate-alert</title>
       <link>/authors/hate-alert/</link>
       <pubDate>Wed, 23 Feb 2022 22:00:00 +0530</pubDate>
       <guid>/authors/hate-alert/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mithun Das</title>
-      <link>/authors/mithun-das/</link>
-      <pubDate>Sat, 27 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>/authors/mithun-das/</guid>
       <description></description>
     </item>
     

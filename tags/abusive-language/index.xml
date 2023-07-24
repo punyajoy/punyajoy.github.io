@@ -5,12 +5,20 @@
     <link>/tags/abusive-language/</link>
       <atom:link href="/tags/abusive-language/index.xml" rel="self" type="application/rss+xml" />
     <description>Abusive language</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Wed, 05 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Fri, 02 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon.png</url>
       <title>Abusive language</title>
       <link>/tags/abusive-language/</link>
     </image>
+    
+    <item>
+      <title>HateMM: A Multi-Modal Dataset for Hate Video Classification</title>
+      <link>/publication/icwsm_2023/</link>
+      <pubDate>Fri, 02 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/icwsm_2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Multilingual Abusive Comment Detection at Scale for Indic Languages</title>

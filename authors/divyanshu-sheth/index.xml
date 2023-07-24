@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Divyanshu Sheth | Punyajoy Saha</title>
+    <link>/authors/divyanshu-sheth/</link>
+      <atom:link href="/authors/divyanshu-sheth/index.xml" rel="self" type="application/rss+xml" />
+    <description>Divyanshu Sheth</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Sat, 15 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Rationale-Guided Few-Shot Classification to Detect Abusive Language</title>
+      <link>/publication/saha2023ecai/</link>
+      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/saha2023ecai/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;RGFS_ECAI_appendix.pdf&#34;&gt;Link&lt;/a&gt; to the supplementary file&lt;/p&gt;
+&lt;h3 id=&#34;main-contributions&#34;&gt;Main contributions&lt;/h3&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;
+&lt;h3 id=&#34;limitations&#34;&gt;Limitations&lt;/h3&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;
+&lt;h3 id=&#34;future-directions&#34;&gt;Future Directions&lt;/h3&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

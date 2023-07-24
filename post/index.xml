@@ -5,7 +5,7 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Sat, 11 Dec 2021 00:00:00 +0530</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Sat, 11 Dec 2021 00:00:00 -0500</lastBuildDate>
     <image>
       <url>/img/icon.png</url>
       <title>Posts</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Paper on Fear speech in Indian public Whatsapp groups to be presented at ARCS 2022</title>
       <link>/post/arcs_2022_accepted/</link>
-      <pubDate>Sat, 11 Dec 2021 00:00:00 +0530</pubDate>
+      <pubDate>Sat, 11 Dec 2021 00:00:00 -0500</pubDate>
       <guid>/post/arcs_2022_accepted/</guid>
       <description>&lt;p&gt;Our paper “Short is the Road that Leads from Fear to Hate&amp;rdquo;:Fear Speech in Indian WhatsApp Groups” will be presented at &lt;a href=&#34;https://event.india.acm.org/ARCS/&#34;&gt;ARCS&lt;/a&gt; conference. Joint work with Binny Mathew, Kiran Garimella and Animesh mukherjee. Check this &lt;a href=&#34;https://twitter.com/punyajoysaha/status/1350328828678135812&#34;&gt;twitter_link&lt;/a&gt; to know more. Paper and code is out.&lt;/p&gt;
 </description>
@@ -24,7 +24,7 @@
     <item>
       <title>Invited talk in  Understanding and Automating Counterspeech workshop organised by CRASSH</title>
       <link>/post/talk_on_counterspeech/</link>
-      <pubDate>Tue, 21 Sep 2021 00:00:00 +0530</pubDate>
+      <pubDate>Tue, 21 Sep 2021 00:00:00 -0400</pubDate>
       <guid>/post/talk_on_counterspeech/</guid>
       <description>&lt;p&gt;I have been invited to present my research on counter speech and its challenges. More on the event can be found here &lt;a href=&#34;http://www.crassh.cam.ac.uk/events/29885&#34;&gt;http://www.crassh.cam.ac.uk/events/29885&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -33,7 +33,7 @@
     <item>
       <title>Our paper hateful user detection paper has won the highly presitgious Ted Nelson Newcomer Award at ACM Hypertext 2021.</title>
       <link>/post/acmht_2021/</link>
-      <pubDate>Thu, 02 Sep 2021 00:00:00 +0530</pubDate>
+      <pubDate>Thu, 02 Sep 2021 00:00:00 -0400</pubDate>
       <guid>/post/acmht_2021/</guid>
       <description>&lt;p&gt;Our paper &amp;ldquo;You too Brutus! Trapping Hateful Users in Social Media: Challenges, Solutions &amp;amp; Insights&amp;rdquo; was won the Ted Nelson Newcomer Award at ACM Hypertext 2021. The award nomination is present here : &lt;a href=&#34;https://ht.acm.org/ht2021/programme/best-paper-awards/&#34;&gt;https://ht.acm.org/ht2021/programme/best-paper-awards/&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -42,7 +42,7 @@
     <item>
       <title> 1st in both subtasks of Abusive and Threatening Language Detection for Tweets in Urdu: Abusive Language Detection at FIRE 2021</title>
       <link>/post/opensoc_2021/</link>
-      <pubDate>Tue, 31 Aug 2021 00:00:00 +0530</pubDate>
+      <pubDate>Tue, 31 Aug 2021 00:00:00 -0400</pubDate>
       <guid>/post/opensoc_2021/</guid>
       <description>&lt;p&gt;Our team hate-alert has ranked 1st in both subtasks in Abusive and Threatening Language Detection for Tweets in Urdu. The two subtasks are The task is composed of two binary classification subtasks: (A) abusive intent; (B) threatening intent. Paper and code will be out soon. Check the leaderboard : &lt;a href=&#34;https://ods.ai/tracks/open-science-soc2021/competitions/urdu-hack-soc2021/leaderboard&#34;&gt;https://ods.ai/tracks/open-science-soc2021/competitions/urdu-hack-soc2021/leaderboard&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -51,7 +51,7 @@
     <item>
       <title>Paper on Fear speech in Indian public Whatsapp groups to be presented at IC2S2 2021</title>
       <link>/post/ic2s2_2021-accepted/</link>
-      <pubDate>Fri, 14 May 2021 00:00:00 +0530</pubDate>
+      <pubDate>Fri, 14 May 2021 00:00:00 -0400</pubDate>
       <guid>/post/ic2s2_2021-accepted/</guid>
       <description>&lt;p&gt;Our paper “Short is the Road that Leads from Fear to Hate&amp;rdquo;:Fear Speech in Indian WhatsApp Groups” will be presented at &lt;a href=&#34;https://ic2s2-2021.ethz.ch/&#34;&gt;IC2S2&lt;/a&gt; conference. Joint work with Binny Mathew, Kiran Garimella and Animesh mukherjee. Check this &lt;a href=&#34;https://twitter.com/punyajoysaha/status/1350328828678135812&#34;&gt;twitter_link&lt;/a&gt; to know more. Paper and code is out.&lt;/p&gt;
 </description>
@@ -60,7 +60,7 @@
     <item>
       <title>Tutorial on &#39;Hate speech- Detection, Mitigation and beyond&#39; accepted at ICWSM 2021</title>
       <link>/post/icwsm2021_tutorial_accepted/</link>
-      <pubDate>Sat, 13 Feb 2021 00:00:00 +0530</pubDate>
+      <pubDate>Sat, 13 Feb 2021 00:00:00 -0500</pubDate>
       <guid>/post/icwsm2021_tutorial_accepted/</guid>
       <description>&lt;p&gt;We are going to give a tutorial on &amp;ldquo;Hatespeech: Detection, Mitigation and beyond&amp;rdquo;. Please check the &lt;a href=&#34;https://hate-alert.github.io/talk/icwsm_tutorial/&#34;&gt;website&lt;/a&gt; for more details.&lt;/p&gt;
 </description>
@@ -69,7 +69,7 @@
     <item>
       <title> 1st, 2nd and 1st in offensive language detection in Tamil, Kannada and Malayalam respectively in Dravidian workshop at EACL2021</title>
       <link>/post/eacl2021_workshop/</link>
-      <pubDate>Sat, 16 Jan 2021 00:00:00 +0530</pubDate>
+      <pubDate>Sat, 16 Jan 2021 00:00:00 -0500</pubDate>
       <guid>/post/eacl2021_workshop/</guid>
       <description>&lt;p&gt;Our team hate-alert has ranked 1st, 2nd and 1st in offensive language detection in Tamil, Kannada and Malayalam respectively. Amazing effort by the students Debjoy Saha,Naman Paharia and Debajit Chakraborty. Paper and code will be out soon.&lt;/p&gt;
 </description>
@@ -78,7 +78,7 @@
     <item>
       <title>Paper on Fear speech in Indian public Whatsapp groups is accepted in WWW 2021</title>
       <link>/post/www2021_accepted/</link>
-      <pubDate>Fri, 15 Jan 2021 00:00:00 +0530</pubDate>
+      <pubDate>Fri, 15 Jan 2021 00:00:00 -0500</pubDate>
       <guid>/post/www2021_accepted/</guid>
       <description>&lt;p&gt;Our paper “Short is the Road that Leads from Fear to Hate&amp;rdquo;:Fear Speech in Indian WhatsApp Groups” has been accepted as full paper at The Webconference -21 . Joint work with Binny Mathew, Kiran Garimella and Animesh mukherjee. Check this &lt;a href=&#34;https://twitter.com/punyajoysaha/status/1350328828678135812&#34;&gt;twitter_link&lt;/a&gt; to know more. Paper and code is out.&lt;/p&gt;
 </description>
@@ -87,7 +87,7 @@
     <item>
       <title>Paper on Explainable hate speech dataset accepted at AAAI 2021</title>
       <link>/post/aaai21_accepted/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0530</pubDate>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 -0500</pubDate>
       <guid>/post/aaai21_accepted/</guid>
       <description>&lt;p&gt;Our paper &amp;ldquo;HateXplain: A Benchmark Dataset for Explainable Hate Speech Detection&amp;rdquo; has been accepted as full paper at AAAI-21 . Joint work with Binny Mathew, Seid Muhie Yimam, Charis Biemann, Pawan Goyal and Animesh mukherjee. Check this &lt;a href=&#34;https://twitter.com/punyajoysaha/status/1334178367956914176&#34;&gt;twitter_link&lt;/a&gt; to know more. Paper and code will be out soon.&lt;/p&gt;
 </description>
@@ -96,7 +96,7 @@
     <item>
       <title>World rank 11th in Hatememe detection competition organised by Facebook</title>
       <link>/post/facebook_11th/</link>
-      <pubDate>Fri, 30 Oct 2020 00:00:00 +0530</pubDate>
+      <pubDate>Fri, 30 Oct 2020 00:00:00 -0400</pubDate>
       <guid>/post/facebook_11th/</guid>
       <description>&lt;p&gt;We rank 11th in the world among more than 3000 participants , in a competition detecting hate meme - A competition organised by Facebook on Driven Data platform. More in this &lt;a href=&#34;https://www.drivendata.org/competitions/70/hateful-memes-phase-2/leaderboard/&#34;&gt;url&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -105,7 +105,7 @@
     <item>
       <title>Paper on temporal effects of hate speech got accepted in CSCW 2020</title>
       <link>/post/cscw_accepted/</link>
-      <pubDate>Fri, 24 Jul 2020 00:00:00 +0530</pubDate>
+      <pubDate>Fri, 24 Jul 2020 00:00:00 -0400</pubDate>
       <guid>/post/cscw_accepted/</guid>
       <description>&lt;p&gt;Our paper &amp;ldquo;Hate begets Hate: A Temporal Study of Hate Speech&amp;rdquo; got accepted at CSCW 2020.
 &lt;a href=&#34;https://arxiv.org/abs/1909.10966&#34;&gt;arXiv Draft&lt;/a&gt;&lt;/p&gt;
@@ -115,7 +115,7 @@
     <item>
       <title>Hate alert covered by Huggingface CEO in twitter</title>
       <link>/post/hate_alert_covered/</link>
-      <pubDate>Wed, 15 Jul 2020 00:00:00 +0530</pubDate>
+      <pubDate>Wed, 15 Jul 2020 00:00:00 -0400</pubDate>
       <guid>/post/hate_alert_covered/</guid>
       <description>&lt;p&gt;Our organisation &lt;a href=&#34;https://hate-alert.github.io/&#34;&gt;hate-alert&lt;/a&gt; got covered by the &lt;a href=&#34;https://twitter.com/ClementDelangue/status/1283399355819597825?s=15&#34;&gt;CEO of huggingface&lt;/a&gt;. We did a large scale analysis on multilingual hate speech detection using various state of the art models. Check our models &lt;a href=&#34;https://github.com/punyajoy/DE-LIMIT&#34;&gt;here&lt;/a&gt; , our paper &lt;a href=&#34;https://arxiv.org/abs/2004.06465&#34;&gt;here&lt;/a&gt;. If you just want to check the inference go &lt;a href=&#34;https://huggingface.co/Hate-speech-CNERG&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -124,7 +124,7 @@
     <item>
       <title>Paper on multilingual hate speech detection accepted at ECML PKDD 2020</title>
       <link>/post/ecml-pkdd-accepted/</link>
-      <pubDate>Sat, 20 Jun 2020 00:00:00 +0530</pubDate>
+      <pubDate>Sat, 20 Jun 2020 00:00:00 -0400</pubDate>
       <guid>/post/ecml-pkdd-accepted/</guid>
       <description>&lt;p&gt;Our Paper got accepted ECMLPKDD 2020. Check our models &lt;a href=&#34;https://github.com/punyajoy/DE-LIMIT&#34;&gt;here&lt;/a&gt; , our paper &lt;a href=&#34;https://arxiv.org/abs/2004.06465&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -133,7 +133,7 @@
     <item>
       <title>Winner of Facebook and Social Science One data grant</title>
       <link>/post/facebook_data_grant/</link>
-      <pubDate>Mon, 20 Apr 2020 00:00:00 +0530</pubDate>
+      <pubDate>Mon, 20 Apr 2020 00:00:00 -0400</pubDate>
       <guid>/post/facebook_data_grant/</guid>
       <description>&lt;p&gt;We won the data grant from &lt;a href=&#34;https://socialscience.one/blog/unprecedented-facebook-urls-dataset-now-available-research-through-social-science-one&#34;&gt;facebook + social science one&lt;/a&gt; which comes with a &lt;strong&gt;huge amount&lt;/strong&gt;(1 trillion!!) of urls and their metadata from facebook under a differential privacy regime.&lt;/p&gt;
 </description>
@@ -142,7 +142,7 @@
     <item>
       <title>Joined PhD in January 2020</title>
       <link>/post/entered_phd/</link>
-      <pubDate>Thu, 02 Jan 2020 00:00:00 +0530</pubDate>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 -0500</pubDate>
       <guid>/post/entered_phd/</guid>
       <description>&lt;p&gt;❤&lt;/p&gt;
 </description>
@@ -151,7 +151,7 @@
     <item>
       <title>Misogyny detection recognised by MIT Technical Review</title>
       <link>/post/best_preprint/</link>
-      <pubDate>Sun, 29 Dec 2019 00:00:00 +0530</pubDate>
+      <pubDate>Sun, 29 Dec 2019 00:00:00 -0500</pubDate>
       <guid>/post/best_preprint/</guid>
       <description>&lt;p&gt;Our work in misogyny detection get recognised by MIT Technical Review &lt;a href=&#34;https://www.technologyreview.com/2018/12/29/138019/the-best-of-the-physics-arxiv-week-ending-december-29-2018/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 </description>

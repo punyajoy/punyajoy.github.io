@@ -5,7 +5,15 @@
     <link>/authors/animesh-mukherjee/</link>
       <atom:link href="/authors/animesh-mukherjee/index.xml" rel="self" type="application/rss+xml" />
     <description>Animesh Mukherjee</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Sat, 30 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Fri, 02 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>HateMM: A Multi-Modal Dataset for Hate Video Classification</title>
+      <link>/publication/icwsm_2023/</link>
+      <pubDate>Fri, 02 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/icwsm_2023/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>CounterGeDi: A controllable approach to generate polite, detoxified and emotional counterspeech</title>
       <link>/publication/ijcai_2022/</link>

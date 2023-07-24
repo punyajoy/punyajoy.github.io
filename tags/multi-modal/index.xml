@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Multi-Modal | Punyajoy Saha</title>
+    <link>/tags/multi-modal/</link>
+      <atom:link href="/tags/multi-modal/index.xml" rel="self" type="application/rss+xml" />
+    <description>Multi-Modal</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Fri, 02 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon.png</url>
+      <title>Multi-Modal</title>
+      <link>/tags/multi-modal/</link>
+    </image>
+    
+    <item>
+      <title>HateMM: A Multi-Modal Dataset for Hate Video Classification</title>
+      <link>/publication/icwsm_2023/</link>
+      <pubDate>Fri, 02 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/icwsm_2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

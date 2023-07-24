@@ -5,7 +5,7 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Wed, 05 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Sat, 15 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon.png</url>
       <title>Tags</title>
@@ -13,9 +13,41 @@
     </image>
     
     <item>
+      <title>counterspeech</title>
+      <link>/tags/counterspeech/</link>
+      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/tags/counterspeech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>English</title>
+      <link>/tags/english/</link>
+      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/tags/english/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generation</title>
+      <link>/tags/generation/</link>
+      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/tags/generation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our Papers</title>
+      <link>/tags/our-papers/</link>
+      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/tags/our-papers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Abusive language</title>
       <link>/tags/abusive-language/</link>
-      <pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 02 Jun 2023 00:00:00 +0000</pubDate>
       <guid>/tags/abusive-language/</guid>
       <description></description>
     </item>
@@ -23,8 +55,16 @@
     <item>
       <title>Detection</title>
       <link>/tags/detection/</link>
-      <pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 02 Jun 2023 00:00:00 +0000</pubDate>
       <guid>/tags/detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Modal</title>
+      <link>/tags/multi-modal/</link>
+      <pubDate>Fri, 02 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/tags/multi-modal/</guid>
       <description></description>
     </item>
     
@@ -45,38 +85,6 @@
     </item>
     
     <item>
-      <title>Our Papers</title>
-      <link>/tags/our-papers/</link>
-      <pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>/tags/our-papers/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>counterspeech</title>
-      <link>/tags/counterspeech/</link>
-      <pubDate>Sat, 30 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>/tags/counterspeech/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>English</title>
-      <link>/tags/english/</link>
-      <pubDate>Sat, 30 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>/tags/english/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Generation</title>
-      <link>/tags/generation/</link>
-      <pubDate>Sat, 30 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>/tags/generation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Hindi</title>
       <link>/tags/hindi/</link>
       <pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate>
@@ -87,7 +95,7 @@
     <item>
       <title>Education</title>
       <link>/tags/education/</link>
-      <pubDate>Thu, 02 Jan 2020 00:00:00 +0530</pubDate>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 -0500</pubDate>
       <guid>/tags/education/</guid>
       <description></description>
     </item>
