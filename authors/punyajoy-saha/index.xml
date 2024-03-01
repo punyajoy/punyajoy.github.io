@@ -5,12 +5,36 @@
     <link>/authors/punyajoy-saha/</link>
       <atom:link href="/authors/punyajoy-saha/index.xml" rel="self" type="application/rss+xml" />
     <description>Punyajoy Saha</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Fri, 02 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Sun, 11 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Low-Resource Counterspeech Generation for Indic Languages: The Case of Bengali and Hindi</title>
+      <link>/publication/eacl_2024/</link>
+      <pubDate>Sun, 11 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/eacl_2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probing LLMs for hate speech detection: strengths and vulnerabilities</title>
+      <link>/publication/emnlp_2023/</link>
+      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/emnlp_2023/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>HateMM: A Multi-Modal Dataset for Hate Video Classification</title>
       <link>/publication/icwsm_2023/</link>
       <pubDate>Fri, 02 Jun 2023 00:00:00 +0000</pubDate>
       <guid>/publication/icwsm_2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HateProof: Are Hateful Meme Detection Systems really Robust?</title>
+      <link>/publication/www_2023/</link>
+      <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/www_2023/</guid>
       <description></description>
     </item>
     

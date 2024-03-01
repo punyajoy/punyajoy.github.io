@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Saurabh Kumar Pandey | Punyajoy Saha</title>
+    <link>/authors/saurabh-kumar-pandey/</link>
+      <atom:link href="/authors/saurabh-kumar-pandey/index.xml" rel="self" type="application/rss+xml" />
+    <description>Saurabh Kumar Pandey</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Sun, 11 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Low-Resource Counterspeech Generation for Indic Languages: The Case of Bengali and Hindi</title>
+      <link>/publication/eacl_2024/</link>
+      <pubDate>Sun, 11 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/eacl_2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

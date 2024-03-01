@@ -5,7 +5,71 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Sat, 15 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Sun, 11 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Animesh Mukherjee</title>
+      <link>/authors/animesh-mukherjee/</link>
+      <pubDate>Sun, 11 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/animesh-mukherjee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mithun Das</title>
+      <link>/authors/mithun-das/</link>
+      <pubDate>Sun, 11 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/mithun-das/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Punyajoy Saha</title>
+      <link>/authors/punyajoy-saha/</link>
+      <pubDate>Sun, 11 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/punyajoy-saha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Saurabh Kumar Pandey</title>
+      <link>/authors/saurabh-kumar-pandey/</link>
+      <pubDate>Sun, 11 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/saurabh-kumar-pandey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shivansh Sethi</title>
+      <link>/authors/shivansh-sethi/</link>
+      <pubDate>Sun, 11 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>/authors/shivansh-sethi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ashish Harshavardhan</title>
+      <link>/authors/ashish-harshavardhan/</link>
+      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/ashish-harshavardhan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sarthak Roy</title>
+      <link>/authors/sarthak-roy/</link>
+      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/sarthak-roy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>punyajoy</title>
+      <link>/authors/punyajoy/</link>
+      <pubDate>Wed, 02 Aug 2023 19:00:00 +0530</pubDate>
+      <guid>/authors/punyajoy/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>[Animesh Mukherjee](https://scholar.google.com/citations?view_op=search_authors&amp;hl=en&amp;mauthors=Animesh&#43;Mukherjee&amp;btnG=)</title>
       <link>/authors/animesh-mukherjeehttps/scholar.google.com/citationsview_opsearch_authorshlenmauthorsanimesh&#43;mukherjeebtng/</link>
@@ -79,14 +143,6 @@
     </item>
     
     <item>
-      <title>Animesh Mukherjee</title>
-      <link>/authors/animesh-mukherjee/</link>
-      <pubDate>Fri, 02 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>/authors/animesh-mukherjee/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Binny Mathew</title>
       <link>/authors/binny-mathew/</link>
       <pubDate>Fri, 02 Jun 2023 00:00:00 +0000</pubDate>
@@ -103,26 +159,34 @@
     </item>
     
     <item>
-      <title>Mithun Das</title>
-      <link>/authors/mithun-das/</link>
-      <pubDate>Fri, 02 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>/authors/mithun-das/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Punyajoy Saha</title>
-      <link>/authors/punyajoy-saha/</link>
-      <pubDate>Fri, 02 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>/authors/punyajoy-saha/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Rohit Raj</title>
       <link>/authors/rohit-raj/</link>
       <pubDate>Fri, 02 Jun 2023 00:00:00 +0000</pubDate>
       <guid>/authors/rohit-raj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Piush Aggarwal</title>
+      <link>/authors/piush-aggarwal/</link>
+      <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/piush-aggarwal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pranit Chawla</title>
+      <link>/authors/pranit-chawla/</link>
+      <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/pranit-chawla/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Torsten Zesch</title>
+      <link>/authors/torsten-zesch/</link>
+      <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
+      <guid>/authors/torsten-zesch/</guid>
       <description></description>
     </item>
     
@@ -163,14 +227,6 @@
       <link>/authors/sumegh-roychowdhury/</link>
       <pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate>
       <guid>/authors/sumegh-roychowdhury/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>punyajoy</title>
-      <link>/authors/punyajoy/</link>
-      <pubDate>Thu, 12 May 2022 13:00:00 +0530</pubDate>
-      <guid>/authors/punyajoy/</guid>
       <description></description>
     </item>
     

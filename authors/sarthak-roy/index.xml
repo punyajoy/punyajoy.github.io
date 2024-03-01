@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sarthak Roy | Punyajoy Saha</title>
+    <link>/authors/sarthak-roy/</link>
+      <atom:link href="/authors/sarthak-roy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sarthak Roy</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Fri, 15 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Probing LLMs for hate speech detection: strengths and vulnerabilities</title>
+      <link>/publication/emnlp_2023/</link>
+      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/emnlp_2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
